@@ -1,0 +1,32 @@
+D:\РАЗРАБОТКА ПО\SHMatrix\SHMatrix\bin\Debug\SHMatrix.exe.config
+D:\РАЗРАБОТКА ПО\SHMatrix\SHMatrix\bin\Debug\SHMatrix.exe
+D:\РАЗРАБОТКА ПО\SHMatrix\SHMatrix\bin\Debug\SHMatrix.pdb
+D:\РАЗРАБОТКА ПО\SHMatrix\SHMatrix\obj\Debug\SHMatrix.Properties.Resources.resources
+D:\РАЗРАБОТКА ПО\SHMatrix\SHMatrix\obj\Debug\SHMatrix.csproj.GenerateResource.Cache
+D:\РАЗРАБОТКА ПО\SHMatrix\SHMatrix\obj\Debug\SHMatrix.exe
+D:\РАЗРАБОТКА ПО\SHMatrix\SHMatrix\obj\Debug\SHMatrix.pdb
+D:\РАЗРАБОТКА ПО\SHMatrix\SHMatrix\obj\Debug\SHMatrix.Form1.resources
+D:\РАЗРАБОТКА ПО\SHMatrix\SHMatrix\obj\Debug\SHMatrix.Progress.resources
+F:\SHMatrix\SHMatrix\bin\Debug\SHMatrix.exe.config
+F:\SHMatrix\SHMatrix\obj\Debug\SHMatrix.exe
+F:\SHMatrix\SHMatrix\obj\Debug\SHMatrix.pdb
+F:\SHMatrix\SHMatrix\bin\Debug\SHMatrix.exe
+F:\SHMatrix\SHMatrix\bin\Debug\SHMatrix.pdb
+F:\SHMatrix\SHMatrix\obj\Debug\SHMatrix.csprojResolveAssemblyReference.cache
+F:\SHMatrix\SHMatrix\obj\Debug\SHMatrix.Form1.resources
+F:\SHMatrix\SHMatrix\obj\Debug\SHMatrix.Progress.resources
+F:\SHMatrix\SHMatrix\obj\Debug\SHMatrix.Properties.Resources.resources
+F:\SHMatrix\SHMatrix\obj\Debug\SHMatrix.csproj.GenerateResource.Cache
+G:\SHMatrix\SHMatrix\bin\Debug\SHMatrix.exe.config
+G:\SHMatrix\SHMatrix\obj\Debug\SHMatrix.exe
+G:\SHMatrix\SHMatrix\obj\Debug\SHMatrix.pdb
+G:\SHMatrix\SHMatrix\bin\Debug\SHMatrix.exe
+G:\SHMatrix\SHMatrix\bin\Debug\SHMatrix.pdb
+G:\SHMatrix\SHMatrix\obj\Debug\SHMatrix.csprojResolveAssemblyReference.cache
+G:\SHMatrix\SHMatrix\obj\Debug\SHMatrix.Form1.resources
+G:\SHMatrix\SHMatrix\obj\Debug\SHMatrix.Progress.resources
+G:\SHMatrix\SHMatrix\obj\Debug\SHMatrix.Properties.Resources.resources
+G:\SHMatrix\SHMatrix\obj\Debug\SHMatrix.csproj.GenerateResource.Cache
+D:\РАЗРАБОТКА ПО\SHMatrix\SHMatrix\obj\Debug\SHMatrix.csprojResolveAssemblyReference.cache
+D:\РАЗРАБОТКА ПО\SHMatrix\SHMatrix\obj\Debug\SHMatrix.AbUG.resources
+D:\РАЗРАБОТКА ПО\SHMatrix\SHMatrix\obj\Debug\SHMatrix.SetACL.resources
